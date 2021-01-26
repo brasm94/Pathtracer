@@ -1,4 +1,5 @@
 //inspired by http://www.kevinbeason.com/smallpt/
+//Temp
 #include <math.h> 
 #include "Vec.h"
 #include "Test.h"
